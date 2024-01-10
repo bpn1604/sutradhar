@@ -7,6 +7,7 @@ import Homevendo from './Components/Homevendo';
 function App() {
   return (
     <div className="App">
+    
       <Homevendo />
     </div>
   );
